@@ -1,0 +1,32 @@
+.logo-principal{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-principal img {
+
+    width: 20%; 
+}
+
+main p{
+    text-align: center;
+    font-size:120px;
+    font-family: "Josefin Sans", serif;
+}
+
+nav{
+
+    text-align: center;
+}
+
+nav a {
+    
+    font-family: "Josefin Sans", serif;
+    font-size: 80px;
+    margin-right: 1em;
+    text-decoration: none;
+    color: black;
+
+}
