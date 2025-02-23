@@ -12,7 +12,7 @@
 
 main p{
     text-align: center;
-    font-size:120px;
+    font-size:30px;
     font-family: "Josefin Sans", serif;
 }
 
@@ -24,9 +24,32 @@ nav{
 nav a {
     
     font-family: "Josefin Sans", serif;
-    font-size: 80px;
+    font-size: 25px;
     margin-right: 1em;
     text-decoration: none;
     color: black;
+    
 
+}
+
+a:hover {
+
+    color: rgb(243, 41, 41);
+    transition: 1s;
+}
+
+div h2{
+
+    text-align: center;
+    font-family: "Josefin Sans", serif;
+}
+
+.accesorios {
+
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.accesorios img{
+    margin: 5px;
 }
